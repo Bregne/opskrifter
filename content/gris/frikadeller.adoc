@@ -9,6 +9,7 @@ category=gris
 
 400	gram Svinekød, hakket 
 
+
 1	Æg 
 
 2	spsk. Hvedemel
