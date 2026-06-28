@@ -1,5 +1,5 @@
 title=Rugbrød
-date=2024-10-03
+date= {localdate}
 type=page
 tags=bage
 status=published
