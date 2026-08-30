@@ -1,4 +1,4 @@
-title=Rugbrød
+title=Boller
 date= {localdate}
 type=page
 tags=bage
