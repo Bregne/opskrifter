@@ -1,0 +1,46 @@
+title=Rugbrød
+date= {localdate}
+type=page
+tags=bage
+status=published
+category=bage
+~~~~~~
+= Koldhævedede boller
+
+== Ingredienser
+
+ * 5 dl koldt vand
+
+ * 20 gær
+
+ * 3-4 dl hvedemel
+
+ * 3-4 dl grahammel
+
+ * 1,5 tsk salt
+
+ * 5 dl vand
+
+ * 1 dl andre kerner; solsikke, græskar...
+
+
+== Fremgangsmåde
+
+_om aftnen_
+
+opløs gæren i vandet
+
+R
+rør det hele sammen
+
+stil det på køl natten over
+
+_om morgen_
+
+brug en ske til at lave ca. 9 boller på den plade med bagepapir
+
+bag ved 225 grade varmeluf i 15-20 min.
+
+TIP: Dejen kan såt i flere dag i køleskabet, så man kan friste boller hele weekenden
+
+TIP: du kan også bage dem i Airfryer
