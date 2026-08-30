@@ -1,4 +1,4 @@
-title=Boller
+title=Koldhævedede boller
 date= {localdate}
 type=page
 tags=bage
